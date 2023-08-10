@@ -54,13 +54,15 @@ body {
 
 .headings {
   font-size: 1.8rem;
-  font-weight: 400;
+  font-weight: 700;
   /* white-space: nowrap; */
+  color: rgba(0, 0, 0, 0.6);
 }
 
 .answers {
   font-size: 1.4rem;
   line-height: 1.8rem;
+  color: rgb(112, 111, 111);
 }
 /* 
 .hidden {
